@@ -1,0 +1,50 @@
+Barcode	Count
+unknown	93854626
+index_hopped	440776
+CTCTGGAT	28273074
+TACCGGAT	59803610
+AGAGTCCA	9424161
+GTAGCGTA	6425781
+ATCATGCG	8385008
+AACAGCGA	7418886
+TCGACAAG	3174898
+TCGAGAGT	9284990
+CGGTAATC	3730418
+TAGCCATG	8657718
+TCTTCGAC	34156815
+CTAGCTCA	14820156
+TATGGCAC	9086426
+ACGATCAG	6841163
+GATCTTGC	3054876
+AGGATAGC	7217701
+TGTTCCGT	13452889
+GCTACTCT	5780573
+CGATCGAT	4834036
+GTCCTAAG	7309039
+GATCAAGG	5204218
+TCGGATTC	3638673
+CACTTCAC	3369605
+ATCGTGGT	5606619
+	Command being timed: "./demult.py -R /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R1_001.fastq.gz -r /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R4_001.fastq.gz -I /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R2_001.fastq.gz -i /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R3_001.fastq.gz -b /projects/bgmp/bcosgrov/Bi621/mpx/barcodes.tsv -q 32"
+	User time (seconds): 9256.25
+	System time (seconds): 72.87
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:37:00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 184880
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1732952
+	Voluntary context switches: 97353
+	Involuntary context switches: 30206
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
